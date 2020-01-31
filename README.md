@@ -1,2 +1,5 @@
 # web-development
-Membuat desain website menggunakan framework bootstrap dan materialize.
+Membuat desain profile website perusahaan software menggunakan framework materialize.
+*Responsive multi size screen resolution
+*Dukungan parallax
+*serta menggunakan css tambahan.
